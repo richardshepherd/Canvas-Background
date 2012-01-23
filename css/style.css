@@ -1,0 +1,20 @@
+/* Containers */
+body { margin: 0; padding: 0; color: #fff; font-family: Helvetica, Arial, sans-serif; }
+#main section { position: relative; background: rgba(0,0,0,0.2); padding: 10px 25px; border-radius: 15px; margin: 25px 0 100px 0; text-shadow: 0 1px 0 rgba(0,0,0,0.75); }
+canvas { position: fixed; top: 0; left: 0; min-width: 100%; height: 100%; }
+#container { width: 960px; margin: 25px auto; }
+
+/* Typography */
+a:link, a:visited { color: #fff; text-decoration: underline;}
+a:hover, a:active { cursor: pointer; }
+h1 { font-size: 30px; }
+h2 { font-size: 24px; }
+p { font-size: 16px; }
+
+/* Header */
+header { position: relative; text-shadow: 1px 1px 2px rgba(0,0,0,0.75); }
+
+.frame { position: fixed; top: 10px; right: 10px; }
+
+/* Footer */
+footer { position: relative; }
